@@ -1,6 +1,6 @@
 # 🏦 XGBoost Credit Risk Model & Explainable AI
 
-![SHAP Summary Plot](shap_summary.png)
+![SHAP Summary Plot](shape_summary.png)
 
 ## Project Overview
 This project focuses on building a production-grade machine learning pipeline to predict loan defaults. Utilizing **XGBoost**, the model is specifically tuned to maximize Recall for the default class, ensuring the financial institution minimizes catastrophic losses from bad loans. 
